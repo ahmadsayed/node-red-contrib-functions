@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "deasync": "^0.1.15",
-    "node-red": "^0.20.7"
+    "node-red": "^0.20.8"
   }
 }
